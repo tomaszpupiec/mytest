@@ -5,5 +5,6 @@ const points = [{ x:1, y: 1 }, { x: 0, y: 0 }, { x: -1, y: 1 }, { x: 1, y: -1 }]
 // comment 1
 console.log(lineIntersection.findIntersection(points));
 
+// comment 2
 console.log(lineIntersection.isSegmentIntersected(points));
 
