@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "baseUrl": "./src/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "lib": [
+      "dom",
+      "es2015"
+    ],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": false,
+    "target": "es5",
+    "allowJs": true
+  }
+}
