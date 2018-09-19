@@ -17,3 +17,5 @@ console.log(lineIntersection.isSegmentIntersected(points));
 // comment 6
 
 // comment 7
+
+// comment 8
