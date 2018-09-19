@@ -23,3 +23,5 @@ console.log(lineIntersection.isSegmentIntersected(points));
 // comment 9
 
 // comment 10
+
+// comment 11
