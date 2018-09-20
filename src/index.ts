@@ -9,3 +9,5 @@ console.log(lineIntersection.findIntersection(points));
 console.log(lineIntersection.isSegmentIntersected(points));
 
 // comment 3
+
+// comment 4
