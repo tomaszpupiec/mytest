@@ -13,3 +13,5 @@ console.log(lineIntersection.isSegmentIntersected(points));
 // comment 4
 
 // remote
+
+// dev3 change
